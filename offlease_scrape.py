@@ -28,5 +28,5 @@ page_soup = soup(page_html, "html.parser")
 
 
 
-test_5= (page_soup.find_all(string=re.compile("Kia")))
-print(test_5)
+# test_5= (page_soup.find_all(string=re.compile("Kia")))
+# print(test_5)
